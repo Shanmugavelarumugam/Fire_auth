@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975769051862",
+    "project_id": "auth-2ec9c",
+    "storage_bucket": "auth-2ec9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975769051862:android:4aa41c7fd9f6fc4e329f77",
+        "android_client_info": {
+          "package_name": "com.example.fire_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfSVJSm5__icJ0-YDl70-xxx62rYPnTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975769051862:android:911d9f8a6223d86f329f77",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfSVJSm5__icJ0-YDl70-xxx62rYPnTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
